@@ -1,5 +1,9 @@
 # Number Guessing Game in Rust
 
+![image](https://github.com/anantdubey16/Guessing-Game-Rust/assets/81023294/75859a00-1304-4618-9983-ac273996ced4)
+
+
+
 This is a simple number guessing game written in Rust. The program generates a random number between 1 and 100, and the player has to guess the number within a limited number of attempts.
 
 ## How to Create and Run the Guessing Game
